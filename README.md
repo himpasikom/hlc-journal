@@ -1,0 +1,1 @@
+- [HLC - Guidelines](https://docs.google.com/spreadsheets/d/1XCsvw3MYjnyMBvMwmXaA3ao57bunp9u0vxIfyYLxHNQ/edit?usp=sharing)
