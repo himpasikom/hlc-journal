@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "9fb595857b590c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "f117c516210cb936",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b789d0bdfd0cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f421d454ca566f8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7a961528661b334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Permanent/init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed891ab8951b27aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Literature/init.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82f84612b0321f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Production/Published/2022/7 Sintaks Markdown yang Sering Digunakan di Google Colab - 071122.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3be5c70ca424177d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Production/Published/2022/7 Sintaks Markdown yang Sering Digunakan di Google Colab - 071122.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f030b0f474002a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cd15907d4ab4435",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b37eb2ab34ba9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "94498175032da05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9e4f16c4c5e950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9001cdf38c2b90b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wolio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e2a388ca616c58b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "801cffdcbc7f6361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e9c5a6ab00e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Production/Published/2022/7 Sintaks Markdown yang Sering Digunakan di Google Colab - 071122.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33a6a883340a1578",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "3be5c70ca424177d",
+  "lastOpenFiles": [
+    "2022-11-25.md",
+    "2022-11-26.md",
+    "0. Hub/Topics/author/MKom 21 - Muhammad Ihsan.md",
+    "0. Hub/Topics/Author.md",
+    "README.md",
+    "4. Production/Published/2022/7 Sintaks Markdown yang Sering Digunakan di Google Colab - 071122.md",
+    "3. Fleeting/images/init.md",
+    "3. Fleeting/init.md",
+    "2. Literature/init.md",
+    "1. Permanent/init.md"
+  ]
+}

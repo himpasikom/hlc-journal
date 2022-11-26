@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "9fb595857b590c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5ef6441c3e6b1a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-10-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b37eb2ab34ba9ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "94498175032da05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce9e4f16c4c5e950",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9001cdf38c2b90b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "e2a388ca616c58b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "801cffdcbc7f6361",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e9c5a6ab00e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33a6a883340a1578",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 780.5,
+    "collapsed": true
+  },
+  "active": "5c5ef6441c3e6b1a",
+  "lastOpenFiles": [
+    "2022-10-13.md",
+    "Week 05 - KIT_MT - NNM.md",
+    "2022-10-10.md",
+    "2022-10-09.md",
+    "3. Fleeting/2022-09/2022-09-25.md",
+    "2. Literature/paper/Flores-101 Evaluation Benchmark For Low-Resource and Multilingual MT.md",
+    "2. Literature/paper/A Survey of Low Resource NMT- 2019.md",
+    "2. Literature/paper/Sennrich - Improving NMT 2016.md",
+    "2. Literature/paper/Survey of Arabic MT.md",
+    "2. Literature/paper/Towards Computational Linguistics in Minangkabau.md"
+  ]
+}
